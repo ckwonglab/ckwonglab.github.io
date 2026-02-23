@@ -1,1 +1,1 @@
-Sitemap: https://ckwonglab.github.io/ckwong-lab/sitemap.xml
+Sitemap: https://ckwonglab.github.io/sitemap.xml
