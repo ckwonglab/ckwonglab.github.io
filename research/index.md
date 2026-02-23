@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-We investigate how endocrine signaling governs the inflammatory response. By combining _in vivo_, _in vitro_, and _in silico_ methodologies, the Wong Lab is identifying novel therapeutic pathways to treat tissue and systemic inflammation and associated diseases.
+We investigate how endocrine signaling governs the inflammatory response. By combining _in vivo_, _in vitro_, and _in silico_ methodologies, we will identify novel therapeutic pathways to treat tissue and systemic inflammation and associated diseases.
 
 {% include section.html %}
 
