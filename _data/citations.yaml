@@ -100,21 +100,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   image: https://www.cell.com/cms/10.1016/j.cmet.2022.08.003/asset/3d59a946-e866-4f37-85fb-480c7276e49d/main.assets/fx1_lrg.jpg
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
 - id: doi:10.2337/db21-1166
   title: GIPR Is Predominantly Localized to Nonadipocyte Cell Types Within White Adipose
     Tissue
