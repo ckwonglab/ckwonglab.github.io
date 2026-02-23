@@ -38,7 +38,7 @@ Latest research and primary publications from the Wong lab.
   include button.html
   link="research"
   text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=false
   style="bare"
 %}
