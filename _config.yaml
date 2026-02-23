@@ -71,3 +71,6 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+url: "https://ckwonglab.github.io"
+baseurl: ""
