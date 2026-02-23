@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
+name: Chi Kin (CK) Wong
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: MRC Laboratory of Medical Science
 aliases:
-  - J. Smith
-  - J Smith
+  - C.K. Wong
+  - CK Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://ckwonglab.github.io
+  orcid: 0000-0003-4828-8413
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
