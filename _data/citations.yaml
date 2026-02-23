@@ -399,5 +399,6 @@
   date: '2025-09-02'
   link: https://doi.org/g966w3
   type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1550413125003250-gr1.jpg
   plugin: sources.py
   file: sources.yaml
