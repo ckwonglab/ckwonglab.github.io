@@ -9,7 +9,7 @@ Therapies based on gut hormones such as GLP-1 have transformed the treatment of 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We investigate how endocrine signaling governs the inflammatory response. By combining _in vivo_, _in vitro_, and _in silico_ methodologies, the Wong Lab is identifying novel therapeutic pathways to combat tissue and systemic inflammation and associated diseases.
 
 {%
   include button.html
