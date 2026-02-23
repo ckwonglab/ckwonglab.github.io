@@ -1,7 +1,7 @@
 ---
 ---
 
-# ckwonglab's Website
+# The Wong Lab - Endocrine Signalling in Inflammation
 
 Therapies based on gut hormones such as GLP-1 have transformed the treatment of metabolic disease, yet their interactions with the immune system remain incompletely understood. Our group studies how endocrine signals, including metabolic peptides, control inflammation.
 
