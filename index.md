@@ -3,35 +3,11 @@
 
 # The Wong Lab - Endocrine Signalling in Inflammation
 
-Therapies based on gut hormones such as GLP-1 have transformed the treatment of metabolic disease, yet their interactions with the immune system remain incompletely understood. Our group studies how endocrine signals, including metabolic peptides, control inflammation.
-
-
-{% capture text %}
-
-We investigate how endocrine signaling governs the inflammatory response. By combining _in vivo_, _in vitro_, and _in silico_ methodologies, the Wong Lab is identifying novel therapeutic pathways to combat tissue and systemic inflammation and associated diseases.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Publications"
-  text=text
-%}
+Therapies based on gut hormones such as GLP-1 have transformed the treatment of metabolic disease, yet how these peptides communicate with multiple target organs to modulate inflammation remains poorly understood. Our group investigates the mechanisms by which endocrine signals, including metabolic peptides, control inflammation.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our current research directions on 
 
 {%
   include button.html
@@ -51,6 +27,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Projects"
   flip=true
   style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Latest research and primary publications from the Wong lab.
+
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Our Publications"
   text=text
 %}
 
