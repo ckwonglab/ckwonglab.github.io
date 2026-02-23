@@ -10,8 +10,10 @@
   date: '2025-11-03'
   link: https://doi.org/hbqdch
   orcid: 0000-0003-4828-8413
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: review
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/194000/194751/large/JCI194751.f1.jpg
 - id: doi:10.1172/jci.insight.174825
   title: Glucose-dependent insulinotropic polypeptide receptor signaling alleviates
     gut inflammation in mice
@@ -62,11 +64,13 @@
   - Theodore J. Brown
   - Daniel J. Drucker
   publisher: Cell Metabolism
-  date: '2024-01-01'
+  date: '2024-01-02'
   link: https://doi.org/gs9fh3
   orcid: 0000-0003-4828-8413
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://www.cell.com/cms/10.1016/j.cmet.2023.11.009/asset/e4dd3f5d-0821-4141-b527-43d1ab85270e/main.assets/fx1_lrg.jpg
 - id: doi:10.1016/j.molmet.2022.101641
   title: Glucagon-like Peptide-1 receptor Tie2+ cells are essential for the cardioprotective
     actions of liraglutide in mice with experimental myocardial infarction
