@@ -1,7 +1,7 @@
 - id: doi:10.1016/j.cmet.2022.08.003
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
+  date: 2022-8-25
   image: https://www.cell.com/cms/10.1016/j.cmet.2022.08.003/asset/3d59a946-e866-4f37-85fb-480c7276e49d/main.assets/fx1_lrg.jpg
   buttons:
     - type: manubot
