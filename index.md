@@ -47,7 +47,7 @@ Latest research and primary publications from the Wong lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/jci_2025.jpg"
   link="research"
   title="Our Publications"
   text=text
