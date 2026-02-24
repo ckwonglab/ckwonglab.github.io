@@ -7,7 +7,7 @@ Gut hormones such as GLP-1 have revolutionized how we treat metabolic disease, b
 
 {% capture text %}
 
-Our overall research directions.
+What we’re studying
 
 {%
   include button.html
@@ -32,7 +32,7 @@ Our overall research directions.
 
 {% capture text %}
 
-Latest research and primary publications from the Wong lab.
+What we’ve been publishing
 
 {%
   include button.html
@@ -55,7 +55,7 @@ Latest research and primary publications from the Wong lab.
 
 {% capture text %}
 
-Meet the amazing scientists that translate gut hormone biology into new therapeutic insights.
+Who’s doing the work
 
 {%
   include button.html
