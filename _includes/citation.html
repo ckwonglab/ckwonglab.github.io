@@ -15,6 +15,7 @@
         {% if citation.link %}
           href="{{ citation.link | relative_url | uri_escape }}"
         {% endif %}
+        target="_blank" rel="noopener noreferrer"
         class="citation-image"
         aria-label="{{ citation.title | default: "citation link" | regex_strip }}"
       >
@@ -35,6 +36,7 @@
         {% if citation.link %}
           href="{{ citation.link | relative_url | xml_escape }}"
         {% endif %}
+        target="_blank" rel="noopener noreferrer"
         class="citation-title"
       >
         {{ citation.title | default: "[no title info]" }}
