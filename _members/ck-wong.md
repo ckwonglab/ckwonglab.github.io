@@ -4,7 +4,7 @@ image: images/ckwong_profile.jpg
 role: principal-investigator
 affiliation: MRC Laboratory of Medical Science
 aliases:
-  - C.K. Wong
+  - Chi Kin Wong
   - CK Wong
 links:
   home-page: https://ckwonglab.github.io
