@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1172/jci.insight.201148
+  title: Semaglutide Reduces Murine Blood Pressure Through the Vascular Smooth Muscle
+    GLP-1 Receptor
+  authors:
+  - Kyle D. Medak
+  - Jacqueline A. Koehler
+  - Laurie L. Baggio
+  - Maria J. Gonzalez-Rellan
+  - Chi Kin Wong
+  - Xiemin Cao
+  - Vivikta Rao
+  - Sean Kao
+  - Yu Cui
+  - Jiayi Fu
+  - Easton Liaw
+  - M. Golam Kabir
+  - Jie Zhang
+  - Jin Wei
+  - Daniel J. Drucker
+  publisher: JCI Insight
+  date: '2026-03-03'
+  link: https://doi.org/hbrtdn
+  orcid: 0000-0003-4828-8413
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.molmet.2025.102311
   title: Loss of GLP-2R signaling in Glp2r mice increases the long-term severity of
     graft versus host disease
