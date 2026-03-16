@@ -8,10 +8,10 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px;">
-  <div style="flex: 1 1 400px; text-align: center;">
+  <div style="flex: 1 1 450px; text-align: center;">
     {% include figure.html image="images/current_directions.jpg" %}
   </div>
-  <div style="flex: 2 1 300px;">
+  <div style="flex: 2 1 250px;">
     <p>Chronic inflammation acts as a destructive, self-perpetuating cycle, damaging vital organs and fueling further inflammation. While GLP-1-based therapies have revolutionized the treatment of metabolic disorders, their full potential to resolve this underlying inflammation remains an open, critical question.</p>
     <p>Our research group investigates how gut hormones and related peptides regulate inflammation via the gut-brain-immune axis. We aim to decode the molecular crosstalk between these organs through three parallel directions:</p>
   </div>
