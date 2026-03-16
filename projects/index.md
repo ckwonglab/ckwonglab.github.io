@@ -11,11 +11,11 @@ nav:
 
 Chronic inflammation acts as a destructive, self-perpetuating cycle, damaging vital organs that reinforces further inflammation. While GLP-1-based therapies have revolutionized the treatment of metabolic disorders, their full potential to resolve this underlying inflammation remains an open, critical question. 
 
-Our research group investigates how gut hormones regulate inflammation via the gut-brain-immune axis. We aim to decode the molecular crosstalk between these organs through three parallel directions:
+Our research group investigates how gut hormones and related peptides regulate inflammation via the gut-brain-immune axis. We aim to decode the molecular crosstalk between these organs through three parallel directions:
 
 **Direct Hormonal Immunomodulation**: We identify the receptor-specific pathways through which individual gut hormones exert direct influence on immune cell function.
 
-**Neural Coordination of Immunometabolic Homeostasis**: We define how the nervous system processes hormonal signals to balance systemic metabolic and inflammatory states.
+**Neural Coordination of Immunometabolic Homeostasis**: We define how the nervous system processes gut hormone signals to balance systemic metabolic and inflammatory states.
 
 **Hormonal Crosstalk in Control of Inflammation**: We map the synergistic interactions between gut hormone ensembles to predict their collective impact on inflammatory outcomes.
 
