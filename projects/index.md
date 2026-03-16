@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
+{% include figure.html image="images/current_directions.jpg" %}
+
 Chronic inflammation acts as a destructive, self-perpetuating cycle, damaging vital organs that reinforces further inflammation. While GLP-1-based therapies have revolutionized the treatment of metabolic disorders, their full potential to resolve this underlying inflammation remains an open, critical question. 
 
 Our research group investigates how gut hormones regulate inflammation via the gut-brain-immune axis. We aim to decode the molecular crosstalk between these organs through three parallel directions:
