@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-{% include figure.html image="images/current_directions.jpg" width="60%" %}
+{% include figure.html image="images/current_directions.jpg" width="80%" %}
 
 Chronic inflammation acts as a destructive, self-perpetuating cycle, damaging vital organs that reinforces further inflammation. While GLP-1-based therapies have revolutionized the treatment of metabolic disorders, their full potential to resolve this underlying inflammation remains an open, critical question. 
 
