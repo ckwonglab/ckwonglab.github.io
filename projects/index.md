@@ -19,11 +19,12 @@ Our research group investigates how gut hormones and related peptides regulate i
 
 **Hormonal Crosstalk in Control of Inflammation**: We map the synergistic interactions between gut hormone ensembles to predict their collective impact on inflammatory outcomes.
 
-To dissect this complex axis, we employ a multidisciplinary strategy that maps gut hormone responses to inflammation in vivo using transgenic models, surgical intervention, and pharmacological modulation. We define hormonal control of inflammation at over tissue, cellular, and molecular levels using high-resolution spatial imaging, cytometry-based techniques, functional assays, and multi-omics. We also leverage human-derived organoid models and clinical samples to discover and validate anti-inflammatory actions downstream of gut hormones.
+To dissect this complex axis, we employ a multidisciplinary strategy that maps gut hormone responses to inflammation _in vivo_ using transgenic models, surgical intervention, and pharmacological modulation. We define hormonal control of inflammation at over tissue, cellular, and molecular levels using high-resolution spatial imaging, cytometry-based techniques, functional assays, and multi-omics. We also leverage human-derived organoid models and clinical samples to discover and validate anti-inflammatory actions downstream of gut hormones.
 
-The clinical success of GLP-1 medicines proves that gut hormones do far more than manage glucose or weight. By mapping these signals, we aim to achieve two major goals:
-1.	Rational Multi-Hormone Design: Developing therapies that work in concert to effectively target and resolve the inflammation driving chronic disease.
-2.	Precision Immunotherapy: Predicting how these hormones affect the immune system to define optimal therapeutic windows, prevent side effects, and identify opportunities to use these hormones as synergistic boosters for existing immunotherapies.
+The clinical success of GLP-1 medicines proves that gut hormones do far more than manage glucose or weight. By mapping these signals, we aim to achieve three major goals:
+1.	Fundamental Mechanism Discovery: We aim to map the molecular rules of communication across the gut-brain-immune axis. By identifying previously unknown signaling hubs, we provide the foundational biological framework required to understand how the body naturally resolves inflammation.
+2.	Rational Multi-Hormone Design: We translate these biological rules into engineered therapies. By combining multiple gut hormones, we can target different pathways simultaneously to more effectively resolve the chronic inflammation that single-agent treatments might miss.
+3.	Precision Immunotherapy: We predict how these hormones affect the immune system to define optimal therapeutic windows, prevent side effects, and identify opportunities to use these hormones as synergistic boosters for existing immunotherapies.
 
 {% include search-info.html %}
 
