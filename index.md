@@ -22,7 +22,7 @@ What we’re studying
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/current_directions.jpg"
   link="projects"
   title="Our Projects"
   flip=true
