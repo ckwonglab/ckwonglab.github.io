@@ -47,21 +47,3 @@ nav:
 %}
 
 {% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-To be updated
-{% endcapture %}
-
-{% capture col2 %}
-To be updated
-{% endcapture %}
-
-{% capture col3 %}
-To be updated
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
