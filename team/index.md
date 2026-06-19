@@ -7,9 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-### **We are hiring!**
-We are looking for postdoctoral scientists with expertise in physiology, metabolism, immunology, or neuroscience! Please [contact me](mailto:ck.wong@lms.mrc.ac.uk) to discuss these opportunities further.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
