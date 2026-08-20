@@ -15,14 +15,8 @@ nav:
 %}
 {%
   include button.html
-  type="phone"
-  text="Coming soon"
-  link="Coming soon"
-%}
-{%
-  include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  text="MRC Laboratory of Medical Sciences, London, UK"
   link="https://maps.app.goo.gl/29ae631nw9czoQ1W9"
 %}
 
