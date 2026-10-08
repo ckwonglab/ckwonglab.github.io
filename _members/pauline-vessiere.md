@@ -1,14 +1,7 @@
 ---
-name: Chi Kin (CK) Wong, PhD
-image: images/ckwong_profile.jpg
-role: principal-investigator
+name: Pauline Vessiere
+image: images/pv_profile.jpg
+role: postdoc
 affiliation: MRC Laboratory of Medical Science
-aliases:
-  - Chi Kin Wong
-  - CK Wong
-links:
-  home-page: https://ckwonglab.github.io
-  orcid: 0000-0003-4828-8413
 ---
-
-Bio coming soon
+Pauline completed an integrated master's degree in Pharmacology at UCL before undertaking her PhD in Professor Maria Grazia Spillantini's lab at the University of Cambridge, where she investigated the gut-to-brain axis in Parkinson's disease. Pauline joined our group in 2026 as a postdoctoral fellow to study how GLP-1 medicines modulate intestinal inflammation via the gut-brain-immune axis.
