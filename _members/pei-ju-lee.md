@@ -1,7 +1,7 @@
 ---
-name: Pauline Vessiere
-image: images/pv_profile.jpg
+name: Pei Ju Lee
+image: images/pjl_profile.png
 role: postdoc
 affiliation: MRC Laboratory of Medical Science
 ---
-Pauline completed an integrated master's degree in Pharmacology at UCL before undertaking her PhD in Professor Maria Grazia Spillantini's lab at the University of Cambridge, where she investigated the gut-to-brain axis in Parkinson's disease. Pauline joined our group in 2026 as a postdoctoral fellow to study how GLP-1 medicines modulate intestinal inflammation via the gut-brain-immune axis.
+Pei Ju is a registered dietitian from Taiwan with a background in nutrition and neuroscience. She completed her PhD at Taipei Medical University and spent the final year of my doctoral training as a research student at the University of Oxford. Her doctoral research focused on the role of short-chain fatty acids in ageing and Alzheimer’s disease, particularly their effects on brain health and neuroinflammation. Pei Ju joined the group as a postdoctoral fellow in October 2026, and she is excited to continue her research in the gut-brain-immune axis. Outside the lab, she enjoys travelling, reading, and exploring delicious food. She is always happy to hear recommendations, especially for good places to eat!
