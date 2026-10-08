@@ -1,11 +1,11 @@
 ---
-title: Blog
+title: News
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Lab news and milestones
 ---
 {% include icon.html icon="fa-solid fa-feather-pointed" %}
-Blog
+News
 
 ### October 2026
 **New members joining**  
