@@ -9,8 +9,7 @@ Blog
 
 ### October 2026
 **New members joining**  
-Pei Ju Lee & Pauline Vessiere joined the group as postdocs. A warm welcome to both!
-[← Back to Team](/team/)
+Pei Ju Lee & Pauline Vessiere joined the [group](/team/) as postdocs. A warm welcome to both!
 
 ### July 2026
 **The beginning**  
