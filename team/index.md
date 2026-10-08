@@ -14,8 +14,6 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Work in progress
-
 {% include section.html %}
 
 {% capture content %}
