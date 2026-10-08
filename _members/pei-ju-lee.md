@@ -1,6 +1,6 @@
 ---
 name: Pei Ju Lee
-image: images/pjl_profile.png
+image: images/pjl_profile.jpg
 role: postdoc
 affiliation: MRC Laboratory of Medical Science
 ---
