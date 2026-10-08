@@ -33,9 +33,3 @@ The clinical success of GLP-1 medicines proves that gut hormones do far more tha
 {% include search-info.html %}
 
 {% include section.html %}
-
-## Current Projects
-
-{% include list.html component="card" data="projects" filter="group == 'A'" %}
-
-{% include section.html %}
